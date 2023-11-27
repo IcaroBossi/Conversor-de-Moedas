@@ -1,2 +1,2 @@
 # Conversor-de-Moedas
-Este projeto consiste em um conversor de moedas simples desenvolvido em Python
+Este projeto consiste em um conversor de moedas simples desenvolvido em Python. Utilizando a API de taxas de câmbio (https://app.exchangerate-api.com/), o script permite que os usuários convertam valores entre diferentes moedas. As taxas de câmbio são obtidas em tempo real. Uma ótima ferramenta para quem precisa realizar cálculos financeiros ou acompanhar as mudanças nas taxas de câmbio.
